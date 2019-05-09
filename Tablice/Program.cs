@@ -79,6 +79,7 @@ namespace Tablice
 			//____________________________________________
 			Console.ReadKey();
 			//+ zmiana1 na Dev
+			//+ zmiana2 na Dev
 		}
 	}
 }
