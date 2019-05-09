@@ -80,6 +80,7 @@ namespace Tablice
 			Console.ReadKey();
 			//+ zmiana1 na Dev
 			//+ zmiana2 na Dev
+			//+ zmiana3 na Dev
 		}
 	}
 }
